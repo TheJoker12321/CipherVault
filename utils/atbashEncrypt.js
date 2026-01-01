@@ -1,5 +1,3 @@
-import { log } from "console"
-
 export function atbashEncript(text) {
 
     const realLetter = ['A', 'B', 'C', 'D',
